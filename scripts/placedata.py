@@ -22,7 +22,6 @@ class PlaceData:
 		return self.workbook
 
 	# A helper function
-	# Do i need this self thing??? i removed it
 	def __general_blast_write(self, sheet, query, row_start, typeblast):
 		# List of organisms to be used later for checking kingdoms?
 		allorgs = []
