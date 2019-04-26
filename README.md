@@ -10,3 +10,5 @@ My project intends to increase the efficiency of analysis of clones while ensuri
 As of April 2019, BLASTn, BLASTx, and BLASTp methods may be invocated given a certain sequence to be analyzed. The scripts I have created will place all data and necessary output into a .xls file (excel) workbook.
 
 Please note that creating these scripts has taken quite a long time for me! Scouring through the scarce API documentation on NCBI and unfamiliar python packages is a time-consuming task. Consequently, there are still many more parts that are not yet (but I would like in the future) included. The scripts do complete a majority of the analyses, but work can still be done. Feel free to create any commits to this repository for any of you involved in WSSP!
+
+Please also note that I and any contributors are not responsible for any academic integrity violations. We implore that individuals looking for help in their analyses put their best personal effort into them before consulting project resources.
